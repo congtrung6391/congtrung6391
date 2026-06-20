@@ -12,14 +12,14 @@ I have a knack for bringing ideas to life on the web. I primarily work with Java
   <tr>
     <!-- 1) CONFIG FILES -->
     <td width="50%" valign="top">
-      <h3> 1) Config Files</h3>
+      <h3> Config Files</h3>
       <ul>
         <li> <a href="https://github.com/congtrung6391/dotfiles"><b>nvim</b></a> — dotfile</li>
       </ul>
     </td>
     <!-- 2) TOOLINGS -->
     <td width="50%" valign="top">
-      <h3>🛠️ 2) Toolings</h3>
+      <h3>🛠️ Toolings</h3>
       <ul>
         <li><a href="https://github.com/congtrung6391/docflow"><b>docflow</b></a> — Document-Driven Kanban and session tracker for Pi agents.</li>
         <li><a href="https://github.com/congtrung6391/docflow/tree/main/skills/diagrams"><b>skills/diagrams</b></a> — System skill for auto-rendering Excalidraw and Mermaid diagrams.</li>
