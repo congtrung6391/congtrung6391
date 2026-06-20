@@ -4,61 +4,45 @@ I'm a **Systems & Web Engineer** who loves building minimalist tools, crafting c
 
 ---
 
-<table>
-  <tr>
-    <!-- 1) CONFIG FILES -->
-    <td width="50%" valign="top">
-      <h3> 1) Config Files</h3>
-      <p><i>Developer environments & dotfiles:</i></p>
-      <ul>
-        <li> <a href="https://github.com/congtrung6391/dotfiles"><b>nvim</b></a> — Lua-based Neovim config.</li>
-        <li> <a href="https://github.com/congtrung6391/dotfiles"><b>dotfiles</b></a> — Zsh, Alacritty & Zellij setups.</li>
-        <li>󰧑 <a href="https://github.com/congtrung6391/repo-name"><b>.obsidian</b></a> — Knowledge graph vault setup.</li>
-        <li>󰗬 <a href="https://github.com/congtrung6391/repo-name"><b>.omp</b></a> — Oh My Pi agent terminal config.</li>
-      </ul>
-    </td>
-    <!-- 2) DEVTOOLS -->
-    <td width="50%" valign="top">
-      <h3>🛠️ 2) Devtools</h3>
-      <p><i>Developer-first utility packages:</i></p>
-      <ul>
-        <li><a href="https://github.com/congtrung6391/repo-name"><b>project-name-1</b></a> — Placeholder for devtool description.</li>
-        <li><a href="https://github.com/congtrung6391/repo-name"><b>project-name-2</b></a> — Placeholder for devtool description.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <!-- 3) AI PROJECTS -->
-    <td width="50%" valign="top">
-      <h3>󰧑 3) AI & Agent Resources</h3>
-      <p><i>Skills, extensions, and agent prompts:</i></p>
-      <ul>
-        <li><a href="https://github.com/congtrung6391/repo-name"><b>skills/diagrams</b></a> — Auto-rendering Excalidraw & Mermaid.</li>
-        <li><a href="https://github.com/congtrung6391/repo-name"><b>claude-extension</b></a> — Plugin / OMP packages.</li>
-        <li><a href="https://github.com/congtrung6391/repo-name"><b>prompts-skills</b></a> — Agent prompts and skills.</li>
-      </ul>
-    </td>
-    <!-- 4) BLOG -->
-    <td width="50%" valign="top">
-      <h3>✍️ 4) Personal Blog</h3>
-      <p><i>Writing on systems, compilers, & React:</i></p>
-      <ul>
-        <li><a href="https://congtrung6391.github.io/blog/post-slug-1"><b>blog-post-1</b></a> — Placeholder for article description.</li>
-        <li><a href="https://congtrung6391.github.io/blog/post-slug-2"><b>blog-post-2</b></a> — Placeholder for article description.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <!-- 5) LEARNING SERIES -->
-    <td colspan="2" valign="top">
-      <h3> 5) Build-Your-Own-X Learning Series</h3>
-      <p><i>Recreational interpreter and systems compiler projects:</i></p>
-      <ul>
-        <li>🦀 <a href="https://github.com/congtrung6391/repo-name"><b>build-your-own-x-project</b></a> — Placeholder for your build-your-own-x learning series.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+> [!NOTE]
+> ##  1) Config Files
+> *Developer environments and dotfiles:*
+> -  [**nvim**](https://github.com/congtrung6391/dotfiles) — Lua-based Neovim config.
+> -  [**dotfiles**](https://github.com/congtrung6391/dotfiles) — Zsh, Alacritty & Zellij setups.
+> - 󰧑 [**.obsidian**](https://github.com/congtrung6391/repo-name) — Knowledge graph vault setup.
+> - 󰗬 [**.omp**](https://github.com/congtrung6391/repo-name) — Oh My Pi agent terminal config.
+
+<br>
+
+> [!TIP]
+> ## 🛠️ 2) Devtools
+> *Developer-first utility packages:*
+> - [**project-name-1**](https://github.com/congtrung6391/repo-name) — Placeholder for devtool description.
+> - [**project-name-2**](https://github.com/congtrung6391/repo-name) — Placeholder for devtool description.
+
+<br>
+
+> [!IMPORTANT]
+> ## 󰧑 3) AI & Agent Resources
+> *Skills, extensions, and agent prompts:*
+> - [**skills/diagrams**](https://github.com/congtrung6391/repo-name) — Auto-rendering Excalidraw & Mermaid.
+> - [**claude-extension**](https://github.com/congtrung6391/repo-name) — Plugin / OMP packages.
+> - [**prompts-skills**](https://github.com/congtrung6391/repo-name) — Agent prompts and skills.
+
+<br>
+
+> [!WARNING]
+> ## ✍️ 4) Personal Blog
+> *Writing on systems, compilers, & React:*
+> - [**blog-post-1**](https://congtrung6391.github.io/blog/post-slug-1) — Placeholder for article description.
+> - [**blog-post-2**](https://congtrung6391.github.io/blog/post-slug-2) — Placeholder for article description.
+
+<br>
+
+> [!CAUTION]
+> ##  5) Build-Your-Own-X Learning Series
+> *Recreational interpreter and systems compiler projects:*
+> - 🦀 [**build-your-own-x-project**](https://github.com/congtrung6391/repo-name) — Placeholder for your build-your-own-x learning series.
 
 ---
 
