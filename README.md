@@ -4,12 +4,12 @@ I'm a **Frontend Software Developer** based in **Vietnam, HCMC**.
 
 I have a knack for bringing ideas to life on the web. I primarily work with JavaScript and React, and I enjoy diving deep into technical concepts to understand them from the ground up.
 
-Read my latest write-ups on React Server Components and state management at [trungtruong.vercel.app](https://trungtruong.vercel.app).
+# Read my latest write-ups on React Server Components and state management at [trungtruong.vercel.app](https://trungtruong.vercel.app).
 
 ---
 
 > [!NOTE]
-> ##  1) Config Files
+> ##  Config Files
 > -  [**nvim**](https://github.com/congtrung6391/dotfiles) — Lua-based Neovim development environment.
 > -  [**dotfiles**](https://github.com/congtrung6391/dotfiles) — Settings for Alacritty, Zellij multiplexer, and Spaceship prompt.
 > - 󰧑 [**.obsidian**](https://github.com/congtrung6391/docflow#file-layout) — Obsidian vault configuration integrated with task management.
@@ -18,7 +18,7 @@ Read my latest write-ups on React Server Components and state management at [tru
 <br>
 
 > [!TIP]
-> ## 🛠️ 2) Toolings
+> ## 🛠️ Toolings
 > - [**docflow**](https://github.com/congtrung6391/docflow) — Document-Driven Kanban and session tracker for Pi agents.
 > - [**skills/diagrams**](https://github.com/congtrung6391/docflow/tree/main/skills/diagrams) — System skill for auto-rendering Excalidraw and Mermaid diagrams.
 > - [**global-store**](https://github.com/congtrung6391/global-store) — A custom lightweight global state manager for React.
