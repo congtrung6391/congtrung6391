@@ -1,54 +1,39 @@
-```lua
--- ~/.config/congtrung6391/init.lua
--- Styled for 'Comic Shanns Mono Nerd Font' in dark-mode.
+# Hi there, I'm Trung C. Truong-Nguyen (congtrung6391) 👋
 
-local developer = {
-  username = "congtrung6391",
-  alias    = "Trung C. Truong-Nguyen",
-  role     = "Web & Systems Engineer",
-  style    = "Dark Minimalist",
-}
-
--- 1) Config Files & Environment
-developer.configs = {
-  editor   = "nvim",       -- Lua-based editor configuration
-  dotfiles = "dotfiles",   -- Terminal, spaceship prompt, and workspace configs
-  wiki     = ".obsidian",  -- Obsidian knowledge graph vault setup
-  shell    = ".omp",       -- Oh My Pi custom agent configuration
-}
-
--- 2) Devtools Built by Me
-developer.devtools = {
-  ["repo-name"] = "placeholder for devtool repository description",
-  ["repo-name"] = "placeholder for devtool repository description",
-}
-
--- 3) AI Projects & Agent Resources
-developer.ai_resources = {
-  ["repo-name"] = "placeholder (e.g. claude extension, plugin, omp packages)",
-  ["repo-name"] = "placeholder (e.g. custom prompts, system skills)",
-}
-
--- 4) Writing & Personal Blog
-developer.blog = {
-  url = "https://congtrung6391.github.io/blog",
-  recent = {
-    "placeholder-blog-article-slug-1",
-    "placeholder-blog-article-slug-2",
-  }
-}
-
--- 5) Learning Series (Build-Your-Own-X)
-developer.learning = {
-  ["repo-name"] = "placeholder for build-your-own-x learning project",
-}
-
-return developer
-```
+I'm a **Systems & Web Engineer** who loves building minimalist tools, crafting custom terminal configurations, and exploring code intelligence.
 
 ---
 
-### 📊 Github Profile Stats
+###  1) Config Files & Environment
+*My custom developer environments and dotfiles:*
+-  [**nvim**](https://github.com/congtrung6391/dotfiles) — Lua-based Neovim configuration.
+-  [**dotfiles**](https://github.com/congtrung6391/dotfiles) — Settings for Alacritty, Zellij, and Spaceship prompt.
+- 󰧑 [**.obsidian**](https://github.com/congtrung6391/repo-name) — Obsidian vault setups for knowledge management.
+- 󰗬 [**.omp**](https://github.com/congtrung6391/repo-name) — Oh My Pi custom agent terminal configuration.
+
+### 🛠️ 2) Devtools
+*Developer-first utility packages and packages:*
+- [**project-name-1**](https://github.com/congtrung6391/repo-name) — Placeholder for devtool description.
+- [**project-name-2**](https://github.com/congtrung6391/repo-name) — Placeholder for devtool description.
+
+### 󰧑 3) AI & Agent Resources
+*Custom agent system skills, extensions, and prompts:*
+- [**skills/diagrams**](https://github.com/congtrung6391/repo-name) — Auto-rendering Excalidraw & Mermaid diagrams.
+- [**claude-extension**](https://github.com/congtrung6391/repo-name) — Custom plugin / OMP packages for AI agents.
+- [**prompts-skills**](https://github.com/congtrung6391/repo-name) — Agent prompt guidelines and custom skills.
+
+### ✍️ 4) Personal Blog
+*Writing on systems, compiler construction, and React internals:*
+- [**blog-post-1**](https://congtrung6391.github.io/blog/post-slug-1) — Placeholder for article description.
+- [**blog-post-2**](https://congtrung6391.github.io/blog/post-slug-2) — Placeholder for article description.
+
+###  5) Build-Your-Own-X
+*Recreational interpreter and systems learning projects:*
+- [**build-your-own-x-project**](https://github.com/congtrung6391/repo-name) — Placeholder for your build-your-own-x learning series.
+
+---
+
+### 📊 Github Stats
 
 <div align="center">
   <picture>
