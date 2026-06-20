@@ -14,10 +14,7 @@ I have a knack for bringing ideas to life on the web. I primarily work with Java
     <td width="50%" valign="top">
       <h3> 1) Config Files</h3>
       <ul>
-        <li> <a href="https://github.com/congtrung6391/dotfiles"><b>nvim</b></a> — Lua-based Neovim development environment.</li>
-        <li> <a href="https://github.com/congtrung6391/dotfiles"><b>dotfiles</b></a> — Settings for Alacritty, Zellij multiplexer, and Spaceship prompt.</li>
-        <li>󰧑 <a href="https://github.com/congtrung6391/docflow#file-layout"><b>.obsidian</b></a> — Obsidian vault configuration integrated with task management.</li>
-        <li>󰗬 <a href="https://github.com/congtrung6391/docflow#pi-extension"><b>.omp</b></a> — Custom prompt and workspace themes for Oh My Pi agents.</li>
+        <li> <a href="https://github.com/congtrung6391/dotfiles"><b>nvim</b></a> — dotfile</li>
       </ul>
     </td>
     <!-- 2) TOOLINGS -->
@@ -26,10 +23,6 @@ I have a knack for bringing ideas to life on the web. I primarily work with Java
       <ul>
         <li><a href="https://github.com/congtrung6391/docflow"><b>docflow</b></a> — Document-Driven Kanban and session tracker for Pi agents.</li>
         <li><a href="https://github.com/congtrung6391/docflow/tree/main/skills/diagrams"><b>skills/diagrams</b></a> — System skill for auto-rendering Excalidraw and Mermaid diagrams.</li>
-        <li><a href="https://github.com/congtrung6391/global-store"><b>global-store</b></a> — A custom lightweight global state manager for React.</li>
-        <li><a href="https://github.com/congtrung6391/pure-rsc"><b>pure-rsc</b></a> — React Server Component framework from scratch.</li>
-        <li><a href="https://github.com/congtrung6391/codecrafters-interpreter-rust"><b>codecrafters-interpreter-rust</b></a> — A Lox tree-walk interpreter built in Rust.</li>
-        <li><a href="https://github.com/congtrung6391/response-parser"><b>response-parser</b></a> — Validation helpers for standard HTTP responses.</li>
       </ul>
     </td>
   </tr>
