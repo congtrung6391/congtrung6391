@@ -4,7 +4,7 @@ I'm a **Frontend Software Developer** based in **Vietnam, HCMC**.
 
 I have a knack for bringing ideas to life on the web. I primarily work with JavaScript and React, and I enjoy diving deep into technical concepts to understand them from the ground up.
 
-# Read my latest write-ups on React Server Components and state management at [trungtruong.vercel.app](https://trungtruong.vercel.app).
+<!-- Read my latest write-ups on React Server Components and state management at [trungtruong.vercel.app](https://trungtruong.vercel.app). -->
 
 ---
 
